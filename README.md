@@ -33,3 +33,4 @@ Usage:
 - Clone the project using git clone "https://github.com/adymon/E-Commerce-Web-Automation-Testing-Framework.git"
 - Install packages in requirements.txt
 - Run via terminal command: pytest -s -v 
+- To generate a HTML report use : pytest -s -v --html=report.html 
