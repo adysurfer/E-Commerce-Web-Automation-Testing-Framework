@@ -1,0 +1,31 @@
+[32mINFO    [0m root:test_end2end.py:29 Getting Page title
+[32mINFO    [0m root:test_end2end.py:39 Closing the opening banner
+[32mINFO    [0m root:test_end2end.py:45 Getting navigation items list
+[32mINFO    [0m root:test_end2end.py:50 Taking cursor to navigation where item is some item_name
+[32mINFO    [0m root:test_end2end.py:53 Getting navigation sub_items list where item is some item_name
+[32mINFO    [0m root:test_end2end.py:56 Selecting an item from sub_items
+[32mINFO    [0m root:test_end2end.py:63 Scrolling the window
+[32mINFO    [0m root:test_end2end.py:68 Get items list
+[32mINFO    [0m root:test_end2end.py:81 Selecting size
+[32mINFO    [0m root:test_end2end.py:88 Select color
+[32mINFO    [0m root:test_end2end.py:97 Scrolling the window
+[32mINFO    [0m root:test_end2end.py:101 Adding to cart
+[32mINFO    [0m root:test_end2end.py:107 Proceeding to checkout page
+[32mINFO    [0m root:test_end2end.py:116 Enter Email
+[32mINFO    [0m root:test_end2end.py:119 Check Subscribe checkbox
+[32mINFO    [0m root:test_end2end.py:128 Go to shipping section
+[32mINFO    [0m root:test_end2end.py:134 Choose country from static dropdown
+[32mINFO    [0m root:test_end2end.py:141 Get First Name
+[32mINFO    [0m root:test_end2end.py:145 get last name
+[32mINFO    [0m root:test_end2end.py:149 Get address_line1
+[32mINFO    [0m root:test_end2end.py:153 Data received for address_line2 is Apt 14
+[32mINFO    [0m root:test_end2end.py:157 get city
+[32mINFO    [0m root:test_end2end.py:162 get postal code
+[32mINFO    [0m root:test_end2end.py:166 get phone
+[32mINFO    [0m root:test_end2end.py:170 get billing address
+[32mINFO    [0m root:test_end2end.py:177 get comments on order
+[32mINFO    [0m root:test_end2end.py:184 continue to payment from here
+[32mINFO    [0m root:test_end2end.py:191 Choose Payment Option
+[32mINFO    [0m root:test_end2end.py:201 Place your Order Button
+[32mINFO    [0m root:test_end2end.py:209 Checking confirmation text matches the required text
+[32mINFO    [0m root:test_end2end.py:212 Confirmation text is Thank you Honey!
